@@ -1,0 +1,7 @@
+D:\AAP.NET\7th batch\First\First\bin\Debug\First.exe.config
+D:\AAP.NET\7th batch\First\First\bin\Debug\First.exe
+D:\AAP.NET\7th batch\First\First\bin\Debug\First.pdb
+D:\AAP.NET\7th batch\First\First\obj\Debug\First.csprojAssemblyReference.cache
+D:\AAP.NET\7th batch\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+D:\AAP.NET\7th batch\First\First\obj\Debug\First.exe
+D:\AAP.NET\7th batch\First\First\obj\Debug\First.pdb
